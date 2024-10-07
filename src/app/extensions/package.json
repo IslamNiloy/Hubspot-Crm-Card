@@ -1,0 +1,11 @@
+{
+  "name": "hubspot-example-extension",
+  "version": "0.1.0",
+  "author": "HubSpot",
+  "license": "MIT",
+  "dependencies": {
+    "@hubspot/api-client": "^12.0.1",
+    "@hubspot/ui-extensions": "latest",
+    "react": "^18.2.0"
+  }
+}

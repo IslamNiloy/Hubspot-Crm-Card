@@ -1,0 +1,13 @@
+{
+    "type": "crm-card",
+    "data": {
+      "title": "Update Contact Address",
+      "uid": "contact_update_card",
+      "location": "crm.record.tab",
+      "module": {
+        "file": "Address.jsx"
+      },
+      "objectTypes": [{ "name": "contacts" }]
+    }
+  }
+  

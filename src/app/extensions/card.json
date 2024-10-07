@@ -1,0 +1,13 @@
+{
+    "type": "crm-card",
+    "data": {
+      "title": "Project Files",
+      "uid": "project_files_card",
+      "location": "crm.record.tab",
+      "module": {
+        "file": "ProjectFilesCard.jsx"
+      },
+      "objectTypes": [{ "name": "deals" }]
+    }
+  }
+  

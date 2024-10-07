@@ -1,0 +1,32 @@
+{
+  "appFunctions": {
+    "getDealProperties": {
+      "file": "getDealProperties.js",
+      "secrets": []
+    },
+    "updateDealProperties": {
+      "file": "updateDealProperties.js",
+      "secrets": []
+    },
+    "deleteFileProperty": {
+      "file": "deleteFileProperty.js",
+      "secrets": []
+    },
+    "getPortalId": {
+      "file": "getPortalId.js",
+      "secrets": []
+    },
+    "updateContactInfo": {
+      "file": "updateContactInfo.js",
+      "secrets": []
+    },
+    "getAddressSuggestions": {
+      "file": "getAddressSuggestions.js",
+      "secrets": []
+    },
+    "getAddressDetails": {
+      "file": "getAddressDetails.js",
+      "secrets": []
+    }
+  }
+}
